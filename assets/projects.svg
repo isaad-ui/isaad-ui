@@ -1,1 +1,193 @@
 
+<svg width="1000" height="430" viewBox="0 0 1000 430" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1000" height="430" rx="18" fill="#050805"/>
+
+<text x="500" y="55"
+text-anchor="middle"
+font-family="monospace"
+font-size="26"
+font-weight="700"
+fill="#39ff88">
+
+PROJECT LAB
+
+</text>
+
+<g transform="translate(55 90)">
+
+<rect width="270" height="250" rx="14"
+fill="#08100b"
+stroke="#39ff88"
+stroke-opacity="0.5"/>
+
+<text x="25" y="45"
+font-family="monospace"
+font-size="19"
+fill="#39ff88">
+
+GitHub Analytics
+
+</text>
+
+<text x="25" y="80"
+font-family="monospace"
+font-size="14"
+fill="white">
+
+Python • API • Data
+
+</text>
+
+<text x="25" y="120"
+font-family="monospace"
+font-size="13"
+fill="#8b949e">
+
+Repositories
+
+</text>
+
+<rect x="25" y="135" width="210" height="8" rx="4"
+fill="#17231b"/>
+
+<rect x="25" y="135" width="140" height="8" rx="4"
+fill="#39ff88">
+
+<animate attributeName="width"
+values="20;210;140"
+dur="4s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text x="25" y="180"
+font-family="monospace"
+font-size="13"
+fill="#8b949e">
+
+Analysis
+
+</text>
+
+<circle cx="35" cy="210" r="6" fill="#39ff88">
+
+<animate attributeName="opacity"
+values="1;0.2;1"
+dur="1.5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text x="55" y="216"
+font-family="monospace"
+font-size="13"
+fill="white">
+
+ACTIVE
+
+</text>
+
+</g>
+
+<g transform="translate(365 90)">
+
+<rect width="270" height="250" rx="14"
+fill="#08100b"
+stroke="#39ff88"
+stroke-opacity="0.5"/>
+
+<text x="25" y="45"
+font-family="monospace"
+font-size="19"
+fill="#39ff88">
+
+Repair System
+
+</text>
+
+<text x="25" y="80"
+font-family="monospace"
+font-size="14"
+fill="white">
+
+React • REST • JWT
+
+</text>
+
+<text x="25" y="125"
+font-family="monospace"
+font-size="13"
+fill="#8b949e">
+
+SYSTEM
+
+</text>
+
+<text x="25" y="160"
+font-family="monospace"
+font-size="16"
+fill="#39ff88">
+
+● ONLINE
+
+<animate attributeName="opacity"
+values="1;0.3;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</text>
+
+</g>
+
+<g transform="translate(675 90)">
+
+<rect width="270" height="250" rx="14"
+fill="#08100b"
+stroke="#39ff88"
+stroke-opacity="0.5"/>
+
+<text x="25" y="45"
+font-family="monospace"
+font-size="19"
+fill="#39ff88">
+
+School System
+
+</text>
+
+<text x="25" y="80"
+font-family="monospace"
+font-size="14"
+fill="white">
+
+Java • Database
+
+</text>
+
+<text x="25" y="125"
+font-family="monospace"
+font-size="13"
+fill="#8b949e">
+
+BUILD
+
+</text>
+
+<text x="25" y="160"
+font-family="monospace"
+font-size="16"
+fill="#39ff88">
+
+████████░░
+
+<animate attributeName="opacity"
+values="0.3;1;0.3"
+dur="2s"
+repeatCount="indefinite"/>
+
+</text>
+
+</g>
+
+</svg>
