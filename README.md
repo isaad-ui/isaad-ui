@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-header.svg" width="100%" />
+</p>
+
 # Hey, I'm Issaka Sa-ad Timbilla 👋
 
 ### Computer Science Student | Python Developer | Data Science & AI Enthusiast
