@@ -1,1 +1,54 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
 
+<rect width="1000" height="260" rx="18" fill="#050805"/>
+
+<text x="500" y="85"
+text-anchor="middle"
+font-family="monospace"
+font-size="28"
+font-weight="700"
+fill="#39ff88">
+
+KEEP BUILDING.
+
+<animate attributeName="opacity"
+values="0.4;1;0.4"
+dur="2.5s"
+repeatCount="indefinite"/>
+
+</text>
+
+<text x="500" y="125"
+text-anchor="middle"
+font-family="monospace"
+font-size="17"
+fill="white">
+
+Learn • Build • Improve • Repeat
+
+</text>
+
+<line x1="250" y1="165" x2="750" y2="165"
+stroke="#39ff88"
+stroke-opacity="0.3"/>
+
+<circle cx="250" cy="165" r="4" fill="#39ff88">
+
+<animate attributeName="cx"
+values="250;750;250"
+dur="4s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text x="500" y="210"
+text-anchor="middle"
+font-family="monospace"
+font-size="14"
+fill="#586069">
+
+echo "See you in the code."
+
+</text>
+
+</svg>
