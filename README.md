@@ -48,5 +48,5 @@ Currently, I'm focused on improving my Python and data science skills while expl
 
 ### 🔗 Connect With Me
 
-* LinkedIn: [Issaka Sa-ad Timbilla](www.linkedin.com/in/issaka-sa-ad-timbilla-92033330a)
+* LinkedIn: [Issaka Sa-ad Timbilla](www.linkedin.com/in/issaka-sa-ad-timbilla)
 * GitHub: [isaad-ui](https://github.com/isaad-ui)
