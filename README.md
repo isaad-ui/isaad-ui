@@ -107,11 +107,15 @@ Software Engineering
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isaad-ui&show_icons=true&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaad-ui&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaad-ui&hide_border=true" />
 </p>
 
 ---
