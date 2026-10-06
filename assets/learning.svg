@@ -1,1 +1,143 @@
 
+<svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1000" height="360" rx="18" fill="#050805"/>
+
+<text x="500" y="55"
+text-anchor="middle"
+font-family="monospace"
+font-size="26"
+font-weight="700"
+fill="#39ff88">
+
+CURRENTLY LEARNING
+
+</text>
+
+<line x1="120" y1="190" x2="880" y2="190"
+stroke="#26372c"
+stroke-width="4"/>
+
+<circle cx="120" cy="190" r="14" fill="#39ff88"/>
+<circle cx="310" cy="190" r="14" fill="#39ff88"/>
+<circle cx="500" cy="190" r="14" fill="#39ff88"/>
+<circle cx="690" cy="190" r="14" fill="#39ff88"/>
+<circle cx="880" cy="190" r="14" fill="#39ff88"/>
+
+<circle cx="120" cy="190" r="14"
+fill="none"
+stroke="#39ff88"
+stroke-width="3">
+
+<animate attributeName="r"
+values="14;28;14"
+dur="2s"
+repeatCount="indefinite"/>
+
+<animate attributeName="opacity"
+values="1;0;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="310" cy="190" r="14"
+fill="none"
+stroke="#39ff88"
+stroke-width="3">
+
+<animate attributeName="r"
+values="14;28;14"
+dur="2s"
+begin="0.4s"
+repeatCount="indefinite"/>
+
+<animate attributeName="opacity"
+values="1;0;1"
+dur="2s"
+begin="0.4s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="500" cy="190" r="14"
+fill="none"
+stroke="#39ff88"
+stroke-width="3">
+
+<animate attributeName="r"
+values="14;28;14"
+dur="2s"
+begin="0.8s"
+repeatCount="indefinite"/>
+
+<animate attributeName="opacity"
+values="1;0;1"
+dur="2s"
+begin="0.8s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="690" cy="190" r="14"
+fill="none"
+stroke="#39ff88"
+stroke-width="3">
+
+<animate attributeName="r"
+values="14;28;14"
+dur="2s"
+begin="1.2s"
+repeatCount="indefinite"/>
+
+<animate attributeName="opacity"
+values="1;0;1"
+dur="2s"
+begin="1.2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="880" cy="190" r="14"
+fill="none"
+stroke="#39ff88"
+stroke-width="3">
+
+<animate attributeName="r"
+values="14;28;14"
+dur="2s"
+begin="1.6s"
+repeatCount="indefinite"/>
+
+<animate attributeName="opacity"
+values="1;0;1"
+dur="2s"
+begin="1.6s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<g font-family="monospace"
+font-size="15"
+fill="white"
+text-anchor="middle">
+
+<text x="120" y="240">Python</text>
+<text x="310" y="240">Data</text>
+<text x="500" y="240">ML</text>
+<text x="690" y="240">GenAI</text>
+<text x="880" y="240">Backend</text>
+
+</g>
+
+<text x="500" y="310"
+text-anchor="middle"
+font-family="monospace"
+font-size="14"
+fill="#8b949e">
+
+EVERYTHING STARTS WITH THE NEXT THING YOU LEARN
+
+</text>
+
+</svg>
