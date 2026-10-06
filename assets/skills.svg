@@ -1,1 +1,88 @@
 
+<svg width="1000" height="420" viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1000" height="420" rx="18" fill="#050805"/>
+
+<text x="500" y="55"
+text-anchor="middle"
+font-family="monospace"
+font-size="26"
+font-weight="700"
+fill="#39ff88">
+
+TECH STACK
+
+</text>
+
+<g stroke="#39ff88" stroke-opacity="0.25">
+
+<line x1="500" y1="210" x2="200" y2="120"/>
+<line x1="500" y1="210" x2="800" y2="120"/>
+<line x1="500" y1="210" x2="200" y2="300"/>
+<line x1="500" y1="210" x2="800" y2="300"/>
+
+</g>
+
+<circle cx="500" cy="210" r="75"
+fill="#08160e"
+stroke="#39ff88"
+stroke-width="2">
+
+<animate attributeName="r"
+values="75;82;75"
+dur="3s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text x="500" y="205"
+text-anchor="middle"
+font-family="monospace"
+font-size="22"
+fill="#39ff88">
+
+PYTHON
+
+</text>
+
+<text x="500" y="232"
+text-anchor="middle"
+font-family="monospace"
+font-size="13"
+fill="white">
+
+CORE
+
+</text>
+
+<g font-family="monospace" text-anchor="middle">
+
+<circle cx="200" cy="120" r="55" fill="#08160e" stroke="#39ff88"/>
+<text x="200" y="125" fill="white" font-size="16">DATA</text>
+
+<circle cx="800" cy="120" r="55" fill="#08160e" stroke="#39ff88"/>
+<text x="800" y="125" fill="white" font-size="16">AI / ML</text>
+
+<circle cx="200" cy="300" r="55" fill="#08160e" stroke="#39ff88"/>
+<text x="200" y="305" fill="white" font-size="16">WEB</text>
+
+<circle cx="800" cy="300" r="55" fill="#08160e" stroke="#39ff88"/>
+<text x="800" y="305" fill="white" font-size="16">BACKEND</text>
+
+</g>
+
+<circle cx="200" cy="120" r="4" fill="#39ff88">
+<animate attributeName="cx"
+values="200;500;200"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="800" cy="120" r="4" fill="#39ff88">
+<animate attributeName="cx"
+values="800;500;800"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+</svg>
