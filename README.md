@@ -11,30 +11,63 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isaad-ui&label=Profile%20Views&color=39ff88&style=flat" />
+</p>
+
 ---
 
 ## 👨🏽‍💻 About Me
 
 I'm a **Computer Science student at the University of Ghana** who enjoys turning ideas into practical software and using technology to solve real-world problems.
 
-I'm currently focused on **Python, Data Science, Machine Learning, Generative AI, and backend development**, while strengthening my foundations in algorithms, data structures, and software engineering.
+I'm currently focused on **Python, Data Science, Machine Learning, Generative AI, and backend development**, while strengthening my foundations in algorithms, data structures, databases, and software engineering.
 
 I learn primarily by **building, experimenting, and improving real projects**.
 
-> **Build. Learn. Improve. Repeat.**
+```text
+BUILD → LEARN → ANALYZE → IMPROVE → REPEAT
+```
 
 ---
 
 ## 🧠 What I Build
 
-* 📊 Data-driven applications
-* 🛠️ Developer tools
-* ⚙️ Backend systems
-* 🤖 AI-powered applications
-* 📈 Data analysis projects
-* 🔄 Automation tools
-* 🌐 Web applications
-* 🧩 Algorithmic solutions
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Data Applications
+
+Data analysis tools, developer analytics, data processing and insight generation.
+
+</td>
+<td width="50%">
+
+### 🤖 AI Applications
+
+Exploring machine learning and generative AI through practical projects.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚙️ Software Systems
+
+Backend systems, APIs, automation tools and software projects.
+
+</td>
+<td>
+
+### 🌐 Web Applications
+
+Frontend and full-stack projects focused on useful real-world systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,39 +75,39 @@ I learn primarily by **building, experimenting, and improving real projects**.
 
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 </p>
 
 ### 📊 Data & AI
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
 </p>
 
 **Focus:** Data Analysis • Machine Learning • Generative AI • APIs • Data Processing
 
 ### 🌐 Web & Backend
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
 </p>
 
 **Focus:** REST APIs • Backend Development • Web Applications
 
 ### 🛠️ Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
 ---
@@ -85,9 +118,9 @@ I learn primarily by **building, experimenting, and improving real projects**.
 
 **Python • GitHub REST API • Data Analysis**
 
-A Python-based developer analytics tool that retrieves GitHub profile and repository data and turns it into useful insights.
+A developer analytics tool that retrieves GitHub profile and repository data and transforms it into useful insights.
 
-**Features:**
+**Features**
 
 * GitHub profile analysis
 * Paginated repository retrieval
@@ -95,14 +128,32 @@ A Python-based developer analytics tool that retrieves GitHub profile and reposi
 * Language usage percentages
 * Repository statistics
 * Repository insights
-* Total stars and forks
+* Stars and forks analysis
 * Most-starred repository
 * Most-forked repository
 * Largest repository
 * Most recently updated repository
 * Top repository detection
 
-🔗 **[View Project](https://github.com/isaad-ui/github-developer-analytics)**
+<a href="https://github.com/isaad-ui/github-developer-analytics">
+<img src="https://img.shields.io/badge/View_Project-39ff88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+---
+
+### 🔧 Electronics Repair Shop Inventory System
+
+**React • REST API • JWT**
+
+A frontend inventory management system designed for an electronics repair business.
+
+**Features**
+
+* Inventory management
+* REST API integration
+* Authentication
+* Image handling
+* Low-stock indicators
 
 ---
 
@@ -116,27 +167,22 @@ A software project focused on managing school-related information and processes.
 
 ---
 
-### 🔧 Electronics Repair Shop Inventory System
+## ⚡ Currently Building
 
-**React • REST API • JWT**
+```text
+$ python github_analytics.py
 
-A frontend inventory management system designed for an electronics repair business.
+Initializing GitHub Developer Analytics...
 
-**Features:**
+[✓] Connecting to GitHub API
+[✓] Retrieving repositories
+[✓] Processing repository data
+[✓] Analyzing programming languages
+[✓] Calculating repository statistics
+[✓] Generating developer insights
 
-* Inventory management
-* REST API integration
-* Authentication
-* Image handling
-* Low-stock indicators
-
----
-
-### 🌐 Web Development Projects
-
-A collection of projects built while developing my frontend and JavaScript skills.
-
-🔗 **[Explore My Repositories](https://github.com/isaad-ui?tab=repositories)**
+STATUS: ANALYSIS COMPLETE
+```
 
 ---
 
@@ -145,8 +191,8 @@ A collection of projects built while developing my frontend and JavaScript skill
 ```text
 🐍 Python
    ├── Advanced Python
-   ├── Data Analysis
    ├── APIs
+   ├── Data Analysis
    └── Software Development
 
 📊 Data Science
@@ -174,14 +220,6 @@ A collection of projects built while developing my frontend and JavaScript skill
 
 ---
 
-## 🎯 My Goal
-
-My goal is to become a highly skilled **software and data-focused developer**, building intelligent, reliable, and useful systems that solve real-world problems.
-
-I'm focused on developing strong technical foundations while continuously turning what I learn into practical projects.
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
@@ -197,25 +235,46 @@ I'm focused on developing strong technical foundations while continuously turnin
 
 ## 🔥 GitHub Activity
 
-I'm actively building projects and developing my technical skills through hands-on practice.
+<p align="center">
 
-**133+ GitHub contributions in the past year** and counting.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaad-ui&bg_color=00000000&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 The Goal
+
+```text
+Become a highly skilled software and data-focused developer.
+
+Build intelligent systems.
+Solve real problems.
+Keep learning.
+Keep improving.
+```
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/isaad-ui">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=Always+learning.;Always+building.;Always+improving.;Turning+ideas+into+working+systems."/>
+
+</p>
 
 <p align="center">
   <i>"The best way to learn is to build."</i>
