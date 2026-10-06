@@ -1,1 +1,79 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg">
 
+<rect width="1000" height="360" rx="18" fill="#050805" stroke="#39ff88" stroke-opacity="0.35"/>
+
+<circle cx="30" cy="28" r="6" fill="#39ff88"/>
+<circle cx="50" cy="28" r="6" fill="#8b949e"/>
+<circle cx="70" cy="28" r="6" fill="#8b949e"/>
+
+<text x="100" y="34"
+font-family="monospace"
+font-size="15"
+fill="#8b949e">
+
+saad@developer: ~/about
+
+</text>
+
+<text x="40" y="85"
+font-family="monospace"
+font-size="20"
+fill="#39ff88">
+
+$ whoami
+
+</text>
+
+<text x="40" y="120"
+font-family="monospace"
+font-size="18"
+fill="white">
+
+Computer Science student @ University of Ghana
+
+</text>
+
+<text x="40" y="165"
+font-family="monospace"
+font-size="20"
+fill="#39ff88">
+
+$ focus --current
+
+</text>
+
+<text x="40" y="200"
+font-family="monospace"
+font-size="18"
+fill="white">
+
+Python • Data Science • Machine Learning • Generative AI
+
+</text>
+
+<text x="40" y="245"
+font-family="monospace"
+font-size="20"
+fill="#39ff88">
+
+$ philosophy
+
+</text>
+
+<text x="40" y="280"
+font-family="monospace"
+font-size="18"
+fill="white">
+
+Learn → Build → Break → Debug → Improve
+
+</text>
+
+<rect x="40" y="310" width="20" height="3" fill="#39ff88">
+<animate attributeName="x"
+values="40;900;40"
+dur="5s"
+repeatCount="indefinite"/>
+</rect>
+
+</svg>
