@@ -1,0 +1,38 @@
+<svg width="300" height="195" viewBox="0 0 300 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #39ff88; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .pct   { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <rect width="300" height="195" rx="10" fill="#0d1117" stroke="#39ff8833" stroke-width="1"/>
+
+  <text x="25" y="35" class="title">Most Used Languages</text>
+
+  <!-- Full bar background -->
+  <rect x="25" y="50" width="250" height="8" rx="4" fill="#21262d"/>
+  <!-- HTML 82.5% -->
+  <rect x="25" y="50" width="206" height="8" rx="4" fill="#e34c26"/>
+  <!-- Python 8% from 206 -->
+  <rect x="231" y="50" width="20" height="8" fill="#3572a5"/>
+  <!-- TypeScript 5.4% from 226 -->
+  <rect x="251" y="50" width="13" height="8" fill="#3178c6"/>
+  <!-- JavaScript 4.1% — remainder -->
+  <rect x="264" y="50" width="11" height="8" rx="4" fill="#f1e05a"/>
+
+  <!-- Legend -->
+  <circle cx="35" cy="82" r="6" fill="#e34c26"/>
+  <text x="48" y="87" class="label">HTML</text>
+  <text x="220" y="87" class="pct" text-anchor="end">82.5%</text>
+
+  <circle cx="35" cy="107" r="6" fill="#3572a5"/>
+  <text x="48" y="112" class="label">Python</text>
+  <text x="220" y="112" class="pct" text-anchor="end">8.0%</text>
+
+  <circle cx="35" cy="132" r="6" fill="#3178c6"/>
+  <text x="48" y="137" class="label">TypeScript</text>
+  <text x="220" y="137" class="pct" text-anchor="end">5.4%</text>
+
+  <circle cx="35" cy="157" r="6" fill="#f1e05a"/>
+  <text x="48" y="162" class="label">JavaScript</text>
+  <text x="220" y="162" class="pct" text-anchor="end">4.1%</text>
+</svg>
