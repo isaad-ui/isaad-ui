@@ -69,11 +69,7 @@ WEB           →  BUILD    →  EXPERIENCES
 <h2 align="center">🔥 GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaad-ui&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaad-ui&bg_color=00000000&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true" />
+  <img src="./assets/generated/streak.svg" />
 </p>
 
 ---
@@ -81,8 +77,8 @@ WEB           →  BUILD    →  EXPERIENCES
 <h2 align="center">📊 GITHUB STATS</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaad-ui&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaad-ui&layout=compact&hide_border=true" />
+  <img height="170" src="./assets/generated/stats.svg" />
+  <img height="170" src="./assets/generated/languages.svg" />
 </p>
 
 ---
