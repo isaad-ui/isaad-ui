@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Generative+AI+Explorer;Software+Developer+in+Progress" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Learner;Deep+Learning+Explorer;Backend+Developer+in+Progress;Future+AI+Engineer" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ WEB           →  BUILD    →  EXPERIENCES
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=750&lines=Build+better+software.;Understand+data.;Learn+machine+learning.;Explore+Generative+AI.;Solve+real-world+problems." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=750&lines=Build+better+software.;Understand+data.;Learn+machine+learning.;Master+deep+learning.;Become+an+AI+Engineer." />
 
 </p>
 
