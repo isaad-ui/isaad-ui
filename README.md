@@ -69,7 +69,7 @@ WEB           →  BUILD    →  EXPERIENCES
 <h2 align="center">🔥 GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img src="./assets/generated/streak.svg" />
+  <img src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/streak.svg" width="100%" />
 </p>
 
 ---
@@ -77,8 +77,8 @@ WEB           →  BUILD    →  EXPERIENCES
 <h2 align="center">📊 GITHUB STATS</h2>
 
 <p align="center">
-  <img height="170" src="./assets/generated/stats.svg" />
-  <img height="170" src="./assets/generated/languages.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/stats.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/languages.svg" />
 </p>
 
 ---
