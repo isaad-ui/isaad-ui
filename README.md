@@ -72,17 +72,16 @@ WEB           →  BUILD    →  EXPERIENCES
   <img src="https://streak-stats.demolab.com?user=isaad-ui&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/activity.svg" width="100%" />
-</p>
-
 ---
 
 <h2 align="center">📊 GITHUB STATS</h2>
 
 <p align="center">
-  <img height="195" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/stats.svg" />
-  <img height="195" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/languages.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/stats.svg" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/languages.svg" />
 </p>
 
 ---
