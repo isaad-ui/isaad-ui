@@ -1,0 +1,19 @@
+<svg width="1000" height="270" viewBox="0 0 1000 270" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="270" rx="18" fill="#050805" stroke="#39ff88" stroke-opacity="0.3"/>
+<text x="500" y="52" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#39ff88">CONTRIBUTION STREAK</text>
+<rect x="30" y="75" width="280" height="100" rx="12" fill="#08160e" stroke="#39ff88" stroke-opacity="0.4"/>
+<text x="170" y="120" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#39ff88">20</text>
+<text x="170" y="150" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">Total Repos</text>
+<rect x="360" y="75" width="280" height="100" rx="12" fill="#08160e" stroke="#39ff88" stroke-opacity="0.4"/>
+<text x="500" y="120" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#39ff88">2025-05-31</text>
+<text x="500" y="150" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">Member Since</text>
+<rect x="690" y="75" width="280" height="100" rx="12" fill="#08160e" stroke="#39ff88" stroke-opacity="0.4"/>
+<text x="830" y="120" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#39ff88">ACTIVE</text>
+<text x="830" y="150" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">Status</text>
+<line x1="40" y1="210" x2="960" y2="210" stroke="#26372c" stroke-width="3"/>
+<circle cx="40" cy="210" r="5" fill="#39ff88">
+  <animate attributeName="cx" values="40;960;40" dur="5s" repeatCount="indefinite"/>
+</circle>
+<text x="500" y="245" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">BUILD • LEARN • IMPROVE • REPEAT</text>
+
+</svg>

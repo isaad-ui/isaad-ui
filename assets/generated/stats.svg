@@ -1,0 +1,17 @@
+<svg width="1000" height="340" viewBox="0 0 1000 340" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="340" rx="18" fill="#050805" stroke="#39ff88" stroke-opacity="0.3"/>
+<text x="500" y="52" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#39ff88">GITHUB STATS</text>
+<rect x="30" y="75" width="260" height="85" rx="12" fill="#08160e" stroke="#39ff88" stroke-opacity="0.4"/>
+<text x="160" y="110" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" fill="#39ff88">11</text>
+<text x="160" y="140" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">⭐ Total Stars</text>
+<rect x="390" y="75" width="260" height="85" rx="12" fill="#08160e" stroke="#39ff88" stroke-opacity="0.4"/>
+<text x="520" y="110" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" fill="#39ff88">1</text>
+<text x="520" y="140" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">🍴 Total Forks</text>
+<rect x="30" y="185" width="260" height="85" rx="12" fill="#08160e" stroke="#39ff88" stroke-opacity="0.4"/>
+<text x="160" y="220" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" fill="#39ff88">20</text>
+<text x="160" y="250" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">📦 Public Repos</text>
+<rect x="390" y="185" width="260" height="85" rx="12" fill="#08160e" stroke="#39ff88" stroke-opacity="0.4"/>
+<text x="520" y="220" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" fill="#39ff88">29</text>
+<text x="520" y="250" text-anchor="middle" font-family="monospace" font-size="13" font-weight="normal" fill="#8b949e">👥 Followers</text>
+
+</svg>
