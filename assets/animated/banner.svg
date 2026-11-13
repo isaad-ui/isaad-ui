@@ -9,7 +9,7 @@
 @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 @keyframes draw{to{stroke-dashoffset:0}}
 @keyframes sweep{0%{transform:translateX(-300px);opacity:0}15%{opacity:.5}85%{opacity:.5}100%{transform:translateX(1300px);opacity:0}}
-@keyframes role{0%{opacity:0;transform:translateY(12px)}6%,22%{opacity:1;transform:none}28%,100%{opacity:0;transform:translateY(-12px)}}
+@keyframes role{0%{opacity:0;transform:translateY(12px)}5%,20%{opacity:1;transform:none}24%,100%{opacity:0;transform:translateY(-12px)}}
 </style>
 <rect width="1000" height="230" fill="#0D1117"/>
 <rect class="sweep" x="0" y="0" width="140" height="230" fill="#39FF88" opacity="0" transform="skewX(-20)"/>

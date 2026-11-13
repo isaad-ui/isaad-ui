@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="Build stronger Python projects with databases, authentication and tests Get a software engineering internship Improve my problem-solving with data structures and algorithms Learn machine learning fundamentals and build a small AI project">
+<style>
+.ln{opacity:0;animation:in .8s ease-out forwards,scan 9.0s ease-in-out infinite}
+@keyframes in{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:none}}
+@keyframes scan{0%{fill:#E6EDF3}4%{fill:#39FF88}12%,100%{fill:#E6EDF3}}
+</style>
+<rect width="1000" height="248" fill="#0D1117"/>
+<text class="ln" style="animation-delay:0.15s,3.05s" x="24" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3"><tspan fill="#39FF88">•</tspan><tspan dx="10">Build stronger Python projects with databases, authentication and tests</tspan></text>
+<text class="ln" style="animation-delay:0.45s,3.35s" x="24" y="99" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3"><tspan fill="#39FF88">•</tspan><tspan dx="10">Get a software engineering internship</tspan></text>
+<text class="ln" style="animation-delay:0.75s,3.65s" x="24" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3"><tspan fill="#39FF88">•</tspan><tspan dx="10">Improve my problem-solving with data structures and algorithms</tspan></text>
+<text class="ln" style="animation-delay:1.05s,3.95s" x="24" y="220" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3"><tspan fill="#39FF88">•</tspan><tspan dx="10">Learn machine learning fundamentals and build a small AI project</tspan></text>
+</svg>

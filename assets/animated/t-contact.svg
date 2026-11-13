@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 104" width="1000" height="104" role="img" aria-label="I am open to internships and collaboration on small projects. Feel free to get in touch on LinkedIn.">
+<style>
+.ln{opacity:0;animation:in .8s ease-out forwards,scan 8.0s ease-in-out infinite}
+@keyframes in{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:none}}
+@keyframes scan{0%{fill:#E6EDF3}4%{fill:#39FF88}12%,100%{fill:#E6EDF3}}
+</style>
+<rect width="1000" height="104" fill="#0D1117"/>
+<text class="ln" style="animation-delay:0.15s,2.85s" x="24" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">I am open to internships and collaboration on small projects. Feel</text>
+<text class="ln" style="animation-delay:0.45s,3.15s" x="24" y="76" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">free to get in touch on LinkedIn.</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 218" width="1000" height="218" role="img" aria-label="A tool that checks whether a website is up. It reports the HTTP status code, response time and timestamp, and handles timeouts, SSL errors and connection failures. It started as a Python script and now has a FastAPI backend, a React dashboard with check history, and automated tests that run in GitHub Actions.">
+<style>
+.ln{opacity:0;animation:in .8s ease-out forwards,scan 9.5s ease-in-out infinite}
+@keyframes in{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:none}}
+@keyframes scan{0%{fill:#E6EDF3}4%{fill:#39FF88}12%,100%{fill:#E6EDF3}}
+</style>
+<rect width="1000" height="218" fill="#0D1117"/>
+<text class="ln" style="animation-delay:0.15s,3.15s" x="24" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">A tool that checks whether a website is up. It reports the HTTP status</text>
+<text class="ln" style="animation-delay:0.45s,3.45s" x="24" y="76" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">code, response time and timestamp, and handles timeouts, SSL errors</text>
+<text class="ln" style="animation-delay:0.75s,3.75s" x="24" y="114" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">and connection failures. It started as a Python script and now has a</text>
+<text class="ln" style="animation-delay:1.05s,4.05s" x="24" y="152" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">FastAPI backend, a React dashboard with check history, and automated</text>
+<text class="ln" style="animation-delay:1.35s,4.35s" x="24" y="190" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">tests that run in GitHub Actions.</text>
+</svg>
