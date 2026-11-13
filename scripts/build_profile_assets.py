@@ -265,6 +265,54 @@ def bullet(theme, c):
 '''
 
 
+PROJECTS = [
+    ("github-developer-analytics", "GitHub Developer Analytics",
+     "Enter any public GitHub username to see a profile summary, language breakdown, repository statistics and a searchable repository list. It uses the GitHub REST API, with a React web app and a Python terminal version.",
+     "Python · JavaScript · React · Vite · GitHub API"),
+    ("website-uptime-monitor", "Website Uptime Monitor",
+     "Checks whether a website is up and reports its HTTP status code, response time and timestamp, handling timeouts, SSL errors and connection failures. It started as a Python script and now also has a FastAPI backend, a React dashboard with check history, and automated tests that run in GitHub Actions.",
+     "Python · FastAPI · React · pytest · GitHub Actions"),
+]
+
+
+def wrap_text(text, fs, maxw, k=0.5):
+    lines, cur = [], ""
+    for wd in text.split():
+        t = (cur + " " + wd).strip()
+        if len(t) * fs * k <= maxw:
+            cur = t
+        else:
+            lines.append(cur)
+            cur = wd
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def project(theme, c, title, desc, tech):
+    dark = theme == "dark"
+    clay = "#DCE5DF" if dark else "#2B3733"
+    ink = "rgba(0,0,0,0.16)"
+    tl = round(len(title) * 17.5)
+    lines = wrap_text(desc, 17, 688)
+    body = "".join(f'<text x="4" y="{78 + i * 27}" {SANS} font-size="17" fill="{c["text"]}">{esc(ln)}</text>' for i, ln in enumerate(lines))
+    ty = 78 + len(lines) * 27 + 14
+    H = ty + 24
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 {H}" width="700" height="{H}" role="img" aria-label="{esc(title)}. {esc(desc)} {esc(tech)}.">
+<defs>{clay_filter("t")}
+<filter id="b" x="-2%" y="-5%" width="104%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="1" seed="1" result="w"><animate attributeName="seed" values="1;2;3;4;5;6;7;8" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></feTurbulence><feDisplacementMap in="SourceGraphic" in2="w" scale="1.6" xChannelSelector="R" yChannelSelector="G"/></filter>
+<clipPath id="u"><rect x="4" y="44" width="{tl}" height="5" rx="2.5"/></clipPath></defs>
+<g filter="url(#t)">
+<text x="4" y="34" {CLAY_FONT} font-size="26" fill="{clay}" textLength="{tl}" lengthAdjust="spacingAndGlyphs">{esc(title)}</text>
+<rect x="4" y="44" width="{tl}" height="5" rx="2.5" fill="{c['accent']}"/>
+<g clip-path="url(#u)">{whorl(26, 46, 16, 5, 0, ink)}{whorl(tl - 26, 46, 16, 5, 0, ink)}</g>
+</g>
+<g filter="url(#b)">{body}
+<text x="4" y="{ty}" {MONO} font-size="15" fill="{c['accent']}">{esc(tech)}</text></g>
+</svg>
+'''
+
+
 def main():
     for theme, c in THEMES.items():
         write("header", theme, header(theme, c))
@@ -273,6 +321,8 @@ def main():
         for t in SECTION_TITLES:
             write("h-" + slug(t), theme, heading(theme, c, t))
         write("bullet", theme, bullet(theme, c))
+        for slg, ttl, dsc, tch in PROJECTS:
+            write("project-" + slg, theme, project(theme, c, ttl, dsc, tch))
         write("icon-linkedin", theme, connect_icon("linkedin", theme, c))
         write("icon-github", theme, connect_icon("github", theme, c))
     print("assets written to", OUT)

@@ -29,19 +29,11 @@ Also: REST APIs, the GitHub API, data structures and algorithms, object-oriented
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/h-featured-projects-dark.svg"><img src="./assets/profile/h-featured-projects-light.svg" alt="Featured projects" width="700"></picture></h2>
 
-### [GitHub Developer Analytics](https://github.com/isaad-ui/github-developer-analytics)
-
-Enter any public GitHub username to see a profile summary, language breakdown, repository statistics and a searchable repository list. It uses the GitHub REST API, with a React web app and a Python terminal version.
-
-Python · JavaScript · React · Vite · GitHub API
+<a href="https://github.com/isaad-ui/github-developer-analytics"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/project-github-developer-analytics-dark.svg"><img src="./assets/profile/project-github-developer-analytics-light.svg" alt="GitHub Developer Analytics. Enter any public GitHub username to see a profile summary, language breakdown, repository statistics and a searchable repository list. It uses the GitHub REST API, with a React web app and a Python terminal version. Python · JavaScript · React · Vite · GitHub API." width="700"></picture></a>
 
 [Repository](https://github.com/isaad-ui/github-developer-analytics) · [Live demo](https://github-developer-analytics.netlify.app)
 
-### [Website Uptime Monitor](https://github.com/isaad-ui/website-uptime-monitor)
-
-Checks whether a website is up and reports its HTTP status code, response time and timestamp, handling timeouts, SSL errors and connection failures. It started as a Python script and now also has a FastAPI backend, a React dashboard with check history, and automated tests that run in GitHub Actions.
-
-Python · FastAPI · React · pytest · GitHub Actions
+<a href="https://github.com/isaad-ui/website-uptime-monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/project-website-uptime-monitor-dark.svg"><img src="./assets/profile/project-website-uptime-monitor-light.svg" alt="Website Uptime Monitor. Checks whether a website is up and reports its HTTP status code, response time and timestamp, handling timeouts, SSL errors and connection failures. It started as a Python script and now also has a FastAPI backend, a React dashboard with check history, and automated tests that run in GitHub Actions. Python · FastAPI · React · pytest · GitHub Actions." width="700"></picture></a>
 
 [Repository](https://github.com/isaad-ui/website-uptime-monitor) · [Live demo](https://website-uptime-monitor.netlify.app)
 
