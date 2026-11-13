@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 410" width="1000" height="410" role="img" aria-label="Issaka Sa-ad Timbilla. BSc Computer Science student at the University of Ghana, Accra. Python developer, growing interest in AI engineering. Open to internships.">
+<style>
+.up{opacity:0;animation:up .8s ease-out forwards}
+.pop{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .55s cubic-bezier(.2,.9,.3,1.25) forwards}
+.go{animation:go 7s linear infinite}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}
+@keyframes go{to{stroke-dashoffset:-1000}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.drift{animation:drift 12s ease-in-out infinite alternate}
+@keyframes drift{from{transform:translate(0,0)}to{transform:translate(-90px,50px)}}
+.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:bar 1s ease-out .6s forwards}
+@keyframes bar{to{transform:scaleX(1)}}
+.role{opacity:0;animation:role 12s ease-in-out infinite}
+@keyframes role{0%{opacity:0;transform:translateY(12px)}5%,20%{opacity:1;transform:none}24%,100%{opacity:0;transform:translateY(-12px)}}
+</style>
+<rect width="1000" height="410" fill="#0D1117"/>
+<defs>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#232C37"/></pattern>
+<radialGradient id="glow"><stop offset="0" stop-color="#39FF88" stop-opacity=".22"/><stop offset="1" stop-color="#39FF88" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".6" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+</defs>
+<rect width="1000" height="410" fill="url(#dots)"/>
+<circle class="drift" cx="820" cy="110" r="300" fill="url(#glow)"/>
+<rect width="1000" height="410" fill="url(#fade)"/>
+<rect class="up" style="animation-delay:.1s" x="60" y="70" width="36" height="3" rx="1.5" fill="#39FF88"/>
+<text class="up" style="animation-delay:.15s" x="108" y="78" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="20" letter-spacing="4" fill="#39FF88">HELLO, I'M</text>
+<text class="up" style="animation-delay:.35s" x="60" y="170" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="66" font-weight="700" fill="#E6EDF3">Issaka Sa-ad Timbilla</text>
+<rect class="bar" x="60" y="192" width="140" height="5" rx="2.5" fill="#39FF88"/>
+<text class="role" style="animation-delay:0s" x="60" y="268" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#39FF88">Python Developer</text><text class="role" style="animation-delay:3s" x="60" y="268" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#39FF88">Software Engineering Student</text><text class="role" style="animation-delay:6s" x="60" y="268" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#39FF88">Building APIs and Web Apps</text><text class="role" style="animation-delay:9s" x="60" y="268" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#39FF88">Growing interest in AI Engineering</text>
+<text class="up" style="animation-delay:.9s" x="60" y="316" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="22" fill="#9BA7B4">BSc Computer Science · University of Ghana · Accra, Ghana</text>
+<g class="up" style="animation-delay:1.1s"><rect x="60" y="342" width="290" height="44" rx="22" fill="#1B2430" stroke="#39FF88" stroke-opacity=".4" stroke-width="1.2"/>
+<circle class="pulse" cx="88" cy="364" r="6" fill="#39FF88"/><text x="106" y="371" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="20" fill="#E6EDF3">Open to internships</text></g>
+</svg>

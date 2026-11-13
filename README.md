@@ -1,46 +1,32 @@
 <p align="center">
-  <img src="./assets/animated/banner.svg" width="100%" alt="Issaka Sa-ad Timbilla, BSc Computer Science student at the University of Ghana"/>
+  <img src="./assets/animated/hero.svg" width="100%" alt="Issaka Sa-ad Timbilla. BSc Computer Science student at the University of Ghana, Accra. Python developer, growing interest in AI engineering. Open to internships."/>
 </p>
-
-<p align="center"><img src="./assets/animated/t-intro.svg" width="100%" alt="Computer Science student at the University of Ghana, Accra. Software Engineering, Python Development, growing interest in AI Engineering"/></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=39FF88" alt="LinkedIn"/></a>
-  <a href="https://github.com/isaad-ui?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=flat&logo=github&logoColor=39FF88" alt="Repositories"/></a>
-  <img src="https://img.shields.io/badge/Accra%2C%20Ghana-0D1117?style=flat&logo=googlemaps&logoColor=39FF88" alt="Accra, Ghana"/>
+  <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn"/></a>
+  <a href="https://github.com/isaad-ui?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=39FF88" alt="Repositories"/></a>
 </p>
 
-<p align="center"><img src="./assets/animated/divider.svg" width="100%" alt=""/></p>
+<img src="./assets/animated/h-about.svg" width="100%" alt="About"/>
+<img src="./assets/animated/c-about.svg" width="100%" alt="BSc Computer Science student at the University of Ghana, expected graduation 2028, based in Accra. Building practical tools in Python and JavaScript, focusing on software engineering and Python development, with a longer-term move towards AI engineering."/>
 
-<h2><img src="./assets/animated/h-about.svg" width="100%" alt="About"/></h2>
+<img src="./assets/animated/h-stack.svg" width="100%" alt="Tech stack"/>
+<img src="./assets/animated/c-stack.svg" width="100%" alt="Languages: Python, Java, JavaScript, HTML, CSS. Frontend: React (project experience). Backend and data: REST APIs, GitHub API, MySQL and database fundamentals. Tools: Git, GitHub. Core concepts: Data Structures and Algorithms, Object-Oriented Programming."/>
 
-<p align="center"><img src="./assets/animated/t-about.svg" width="100%" alt="About me"/></p>
+<img src="./assets/animated/h-projects.svg" width="100%" alt="Featured projects"/>
+<a href="https://github.com/isaad-ui/github-developer-analytics"><img src="./assets/animated/c-analytics.svg" width="100%" alt="GitHub Developer Analytics. A web app that analyses any public GitHub profile using the GitHub REST API. Built with React, Vite, JavaScript, Python and the GitHub API."/></a>
 
-<h2><img src="./assets/animated/h-stack.svg" width="100%" alt="Tech stack"/></h2>
-
-<p align="center"><img src="./assets/animated/t-stack.svg" width="100%" alt="Skills"/></p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql,git,github&theme=dark" alt="Technology icons"/>
+<p align="center">
+  <a href="https://github-developer-analytics.netlify.app"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/isaad-ui/github-developer-analytics"><b>Source code</b></a>
 </p>
 
-<h2><img src="./assets/animated/h-projects.svg" width="100%" alt="Featured projects"/></h2>
+<a href="https://github.com/isaad-ui/website-uptime-monitor"><img src="./assets/animated/c-uptime.svg" width="100%" alt="Website Uptime Monitor. Checks website status, response time and timestamp. Built with Python, FastAPI, React, pytest and GitHub Actions."/></a>
 
-<a href="https://github.com/isaad-ui/github-developer-analytics"><img src="./assets/animated/card-analytics.svg" width="100%" alt="GitHub Developer Analytics"/></a>
+<p align="center">
+  <a href="https://website-uptime-monitor.netlify.app"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/isaad-ui/website-uptime-monitor"><b>Source code</b></a>
+</p>
 
-<p align="center"><img src="./assets/animated/t-analytics.svg" width="100%" alt="GitHub Developer Analytics description"/></p>
-
-[Live demo](https://github-developer-analytics.netlify.app) · [Source code](https://github.com/isaad-ui/github-developer-analytics)
-
-<a href="https://github.com/isaad-ui/website-uptime-monitor"><img src="./assets/animated/card-uptime.svg" width="100%" alt="Website Uptime Monitor"/></a>
-
-<p align="center"><img src="./assets/animated/t-uptime.svg" width="100%" alt="Website Uptime Monitor description"/></p>
-
-[Live demo](https://website-uptime-monitor.netlify.app) · [Source code](https://github.com/isaad-ui/website-uptime-monitor)
-
-<sub>More of my work, including HTML/CSS practice projects and a Java OOP repository, is on my [repositories page](https://github.com/isaad-ui?tab=repositories).</sub>
-
-<h2><img src="./assets/animated/h-activity.svg" width="100%" alt="GitHub activity"/></h2>
+<img src="./assets/animated/h-activity.svg" width="100%" alt="GitHub activity"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isaad-ui&theme=dark&background=0D1117&hide_border=true&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub contribution streak"/>
@@ -54,13 +40,12 @@
   <img width="60%" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/languages.svg" alt="Most used languages"/>
 </p>
 
-<h2><img src="./assets/animated/h-goals.svg" width="100%" alt="Goals"/></h2>
+<img src="./assets/animated/h-goals.svg" width="100%" alt="Goals"/>
+<img src="./assets/animated/c-goals.svg" width="100%" alt="Goals: Build stronger Python projects with databases, authentication and tests. Get a software engineering internship. Improve my problem-solving with data structures and algorithms. Learn machine learning fundamentals and build a small AI project."/>
 
-<p align="center"><img src="./assets/animated/t-goals.svg" width="100%" alt="Goals"/></p>
+<img src="./assets/animated/h-contact.svg" width="100%" alt="Contact"/>
+<img src="./assets/animated/c-contact.svg" width="100%" alt="I am open to internships and collaboration on small projects. Feel free to get in touch on LinkedIn."/>
 
-<h2><img src="./assets/animated/h-contact.svg" width="100%" alt="Contact"/></h2>
-
-- LinkedIn: [issaka-sa-ad-timbilla](https://www.linkedin.com/in/issaka-sa-ad-timbilla/)
-- GitHub: [isaad-ui](https://github.com/isaad-ui)
-
-<p align="center"><img src="./assets/animated/t-contact.svg" width="100%" alt="I am open to internships and collaboration on small projects. Feel free to get in touch on LinkedIn."/></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://github.com/isaad-ui"><b>GitHub</b></a>
+</p>
