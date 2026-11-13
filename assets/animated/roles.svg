@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" role="img" aria-label="Python Developer. Software Engineering Enthusiast. Backend Developer. AI Engineering Enthusiast.">
+<style>
+.up{opacity:0;animation:up .8s ease-out forwards}
+.pop{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .55s cubic-bezier(.2,.9,.3,1.25) forwards}
+.go{animation:go 7s linear infinite}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}
+@keyframes go{to{stroke-dashoffset:-1000}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.rg0{opacity:0;animation:rg0 20.0s linear infinite}
+@keyframes rg0{0%,1.25%{opacity:0}1.5%,21.55%{opacity:1}21.6%,100%{opacity:0}}
+.rv0{transform-box:fill-box;transform-origin:right;animation:rv0 20.0s linear infinite}
+@keyframes rv0{0%,1.5%{transform:scaleX(1);animation-timing-function:steps(16,end)}7.1%,18.5%{transform:scaleX(0);animation-timing-function:steps(16,end)}21.3%,100%{transform:scaleX(1)}}
+.rc0{opacity:0;animation:rc0 20.0s linear infinite}
+@keyframes rc0{0%,1.5%{transform:translateX(0);opacity:1;animation-timing-function:steps(16,end)}7.1%,18.5%{transform:translateX(326.4px);opacity:1;animation-timing-function:steps(16,end)}21.3%{transform:translateX(0);opacity:1}21.55%,100%{transform:translateX(0);opacity:0}}
+.rg1{opacity:0;animation:rg1 20.0s linear infinite}
+@keyframes rg1{0%,26.25%{opacity:0}26.5%,49.18%{opacity:1}49.23%,100%{opacity:0}}
+.rv1{transform-box:fill-box;transform-origin:right;animation:rv1 20.0s linear infinite}
+@keyframes rv1{0%,26.5%{transform:scaleX(1);animation-timing-function:steps(31,end)}37.35%,43.5%{transform:scaleX(0);animation-timing-function:steps(31,end)}48.93%,100%{transform:scaleX(1)}}
+.rc1{opacity:0;animation:rc1 20.0s linear infinite}
+@keyframes rc1{0%,26.5%{transform:translateX(0);opacity:1;animation-timing-function:steps(31,end)}37.35%,43.5%{transform:translateX(632.4px);opacity:1;animation-timing-function:steps(31,end)}48.93%{transform:translateX(0);opacity:1}49.18%,100%{transform:translateX(0);opacity:0}}
+.rg2{opacity:0;animation:rg2 20.0s linear infinite}
+@keyframes rg2{0%,51.25%{opacity:0}51.5%,71.73%{opacity:1}71.78%,100%{opacity:0}}
+.rv2{transform-box:fill-box;transform-origin:right;animation:rv2 20.0s linear infinite}
+@keyframes rv2{0%,51.5%{transform:scaleX(1);animation-timing-function:steps(17,end)}57.45%,68.5%{transform:scaleX(0);animation-timing-function:steps(17,end)}71.48%,100%{transform:scaleX(1)}}
+.rc2{opacity:0;animation:rc2 20.0s linear infinite}
+@keyframes rc2{0%,51.5%{transform:translateX(0);opacity:1;animation-timing-function:steps(17,end)}57.45%,68.5%{transform:translateX(346.8px);opacity:1;animation-timing-function:steps(17,end)}71.48%{transform:translateX(0);opacity:1}71.73%,100%{transform:translateX(0);opacity:0}}
+.rg3{opacity:0;animation:rg3 20.0s linear infinite}
+@keyframes rg3{0%,76.25%{opacity:0}76.5%,98.12%{opacity:1}98.17%,100%{opacity:0}}
+.rv3{transform-box:fill-box;transform-origin:right;animation:rv3 20.0s linear infinite}
+@keyframes rv3{0%,76.5%{transform:scaleX(1);animation-timing-function:steps(25,end)}85.25%,93.5%{transform:scaleX(0);animation-timing-function:steps(25,end)}97.88%,100%{transform:scaleX(1)}}
+.rc3{opacity:0;animation:rc3 20.0s linear infinite}
+@keyframes rc3{0%,76.5%{transform:translateX(0);opacity:1;animation-timing-function:steps(25,end)}85.25%,93.5%{transform:translateX(510.0px);opacity:1;animation-timing-function:steps(25,end)}97.88%{transform:translateX(0);opacity:1}98.12%,100%{transform:translateX(0);opacity:0}}
+
+</style>
+<rect width="1000" height="90" fill="#0D1117"/>
+<text x="60" y="58" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="34" font-weight="700" fill="#39D5FF">&gt;</text><g class="rg0"><text x="104" y="58" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="34" fill="#E6EDF3" textLength="326.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Python Developer</text><rect class="rv0" x="104" y="26" width="326.4" height="44" fill="#0D1117"/><g class="rc0"><rect class="blink" x="104" y="28" width="12" height="38" fill="#58A6FF"/></g></g><g class="rg1"><text x="104" y="58" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="34" fill="#E6EDF3" textLength="632.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Software Engineering Enthusiast</text><rect class="rv1" x="104" y="26" width="632.4" height="44" fill="#0D1117"/><g class="rc1"><rect class="blink" x="104" y="28" width="12" height="38" fill="#58A6FF"/></g></g><g class="rg2"><text x="104" y="58" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="34" fill="#E6EDF3" textLength="346.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Backend Developer</text><rect class="rv2" x="104" y="26" width="346.8" height="44" fill="#0D1117"/><g class="rc2"><rect class="blink" x="104" y="28" width="12" height="38" fill="#58A6FF"/></g></g><g class="rg3"><text x="104" y="58" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="34" fill="#E6EDF3" textLength="510.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AI Engineering Enthusiast</text><rect class="rv3" x="104" y="26" width="510.0" height="44" fill="#0D1117"/><g class="rc3"><rect class="blink" x="104" y="28" width="12" height="38" fill="#58A6FF"/></g></g>
+</svg>

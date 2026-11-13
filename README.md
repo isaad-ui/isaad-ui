@@ -1,16 +1,29 @@
 <p align="center">
-  <img src="./assets/animated/hero.svg" width="100%" alt="Issaka Sa-ad Timbilla. BSc Computer Science student at the University of Ghana, Accra. Python developer, growing interest in AI engineering. Open to internships."/>
+  <img src="./assets/animated/hero.svg" width="100%" alt="Issaka Sa-ad Timbilla. BSc Computer Science student at the University of Ghana, Accra. Open to internships."/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn"/></a>
-  <a href="https://github.com/isaad-ui?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=39FF88" alt="Repositories"/></a>
+  <img src="./assets/animated/terminal.svg" width="100%" alt="Terminal. whoami: Issaka Sa-ad Timbilla. cat about.txt: Computer Science student at the University of Ghana. cat goal.txt: Aspiring software engineer."/>
+</p>
+
+<p align="center">
+  <img src="./assets/animated/roles.svg" width="100%" alt="Python Developer. Software Engineering Enthusiast. Backend Developer. AI Engineering Enthusiast."/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
+  <a href="https://github.com/isaad-ui?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Repositories"/></a>
 </p>
 
 <img src="./assets/animated/h-about.svg" width="100%" alt="About"/>
 <img src="./assets/animated/c-about.svg" width="100%" alt="BSc Computer Science student at the University of Ghana, expected graduation 2028, based in Accra. Building practical tools in Python and JavaScript, focusing on software engineering and Python development, with a longer-term move towards AI engineering."/>
 
 <img src="./assets/animated/h-stack.svg" width="100%" alt="Tech stack"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql,git,github&theme=dark&perline=9" alt="Python, Java, JavaScript, HTML, CSS, React, MySQL, Git, GitHub"/>
+</p>
+
 <img src="./assets/animated/c-stack.svg" width="100%" alt="Languages: Python, Java, JavaScript, HTML, CSS. Frontend: React (project experience). Backend and data: REST APIs, GitHub API, MySQL and database fundamentals. Tools: Git, GitHub. Core concepts: Data Structures and Algorithms, Object-Oriented Programming."/>
 
 <img src="./assets/animated/h-projects.svg" width="100%" alt="Featured projects"/>
@@ -29,7 +42,11 @@
 <img src="./assets/animated/h-activity.svg" width="100%" alt="GitHub activity"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isaad-ui&theme=dark&background=0D1117&hide_border=true&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub contribution streak"/>
+  <img width="100%" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/output/github-snake-dark.svg" alt="Contribution graph animation"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isaad-ui&theme=dark&background=0D1117&hide_border=true&ring=58A6FF&fire=39D5FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
@@ -48,4 +65,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://github.com/isaad-ui"><b>GitHub</b></a>
+</p>
+
+<p align="center">
+  <img src="./assets/animated/footer.svg" width="100%" alt="Thanks for visiting. Issaka Sa-ad Timbilla, BSc Computer Science, University of Ghana."/>
 </p>

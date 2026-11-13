@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="Thanks for visiting. Issaka Sa-ad Timbilla, BSc Computer Science, University of Ghana.">
+<style>
+.up{opacity:0;animation:up .8s ease-out forwards}
+.pop{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .55s cubic-bezier(.2,.9,.3,1.25) forwards}
+.go{animation:go 7s linear infinite}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}
+@keyframes go{to{stroke-dashoffset:-1000}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.fl{animation:fl 7s ease-in-out infinite}@keyframes fl{0%,100%{transform:translateX(0)}50%{transform:translateX(840px)}}.blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+
+</style>
+<rect width="1000" height="130" fill="#0D1117"/>
+<line x1="20" y1="24" x2="980" y2="24" stroke="#30363D" stroke-width="1.5"/><rect class="fl" x="20" y="22" width="120" height="4" rx="2" fill="#39D5FF" opacity=".8"/><text x="500" y="76" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">Thanks for visiting<tspan class="blink" fill="#58A6FF" font-weight="700"> _</tspan></text><text x="500" y="110" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="19" fill="#8B949E">Issaka Sa-ad Timbilla · BSc Computer Science · University of Ghana</text>
+</svg>
