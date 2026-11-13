@@ -1,42 +1,38 @@
-name: Update GitHub Metrics
+name: Update language chart
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - "scripts/**"
+
+permissions:
+  contents: write
 
 jobs:
-  metrics:
+  languages:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Stats and languages card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: isaad-ui
-          filename: assets/generated/stats.svg
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_languages_limit: 6
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
-          config_timezone: Africa/Accra
-          config_display: large
+      - uses: actions/checkout@v4
 
-      - name: Languages only card
-        uses: lowlighter/metrics@latest
+      - uses: actions/setup-python@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: isaad-ui
-          filename: assets/generated/languages.svg
-          base: repositories
-          plugin_languages: yes
-          plugin_languages_limit: 6
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
-          config_timezone: Africa/Accra
+          python-version: "3.12"
+
+      - name: Rebuild the language chart from my public repositories
+        run: python scripts/update_languages.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile
+          git diff --cached --quiet || git commit -m "Update language chart [skip ci]"
+          git pull --rebase origin main
+          git push

@@ -1,72 +1,82 @@
-<p align="center">
-  <img src="./assets/animated/hero.svg" width="100%" alt="Issaka Sa-ad Timbilla. BSc Computer Science student at the University of Ghana, Accra. Open to internships."/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/header-dark.svg">
+  <img src="./assets/profile/header-light.svg" alt="Issaka Sa-ad Timbilla. Computer Science student building practical software." width="700">
+</picture>
 
-<p align="center">
-  <img src="./assets/animated/terminal.svg" width="100%" alt="Terminal. whoami: Issaka Sa-ad Timbilla. cat about.txt: Computer Science student at the University of Ghana. cat goal.txt: Aspiring software engineer."/>
-</p>
+BSc Computer Science student at the University of Ghana, interested in Python, backend engineering and, over time, AI engineering.
 
-<p align="center">
-  <img src="./assets/animated/roles.svg" width="100%" alt="Python Developer. Software Engineering Enthusiast. Backend Developer. AI Engineering Enthusiast."/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/typing-dark.svg">
+  <img src="./assets/profile/typing-light.svg" alt="Python development. Practical software projects. Backend engineering. Growing towards AI engineering." width="700">
+</picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
-  <a href="https://github.com/isaad-ui?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Repositories"/></a>
-</p>
+## About
 
-<img src="./assets/animated/h-about.svg" width="100%" alt="About"/>
-<img src="./assets/animated/c-about.svg" width="100%" alt="BSc Computer Science student at the University of Ghana, expected graduation 2028, based in Accra. Building practical tools in Python and JavaScript, focusing on software engineering and Python development, with a longer-term move towards AI engineering."/>
+I'm a Computer Science student in Accra. I'm interested in Python development and backend engineering, and I learn best by building practical software that I can run, test and improve.
 
-<img src="./assets/animated/h-stack.svg" width="100%" alt="Tech stack"/>
+Over time I want to grow towards AI engineering. For now I'm focused on strong fundamentals: data structures, databases and clean code with tests.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql,git,github&theme=dark&perline=9" alt="Python, Java, JavaScript, HTML, CSS, React, MySQL, Git, GitHub"/>
-</p>
+University of Ghana · BSc Computer Science · Expected graduation 2028
 
-<img src="./assets/animated/c-stack.svg" width="100%" alt="Languages: Python, Java, JavaScript, HTML, CSS. Frontend: React (project experience). Backend and data: REST APIs, GitHub API, MySQL and database fundamentals. Tools: Git, GitHub. Core concepts: Data Structures and Algorithms, Object-Oriented Programming."/>
+## Tech stack
 
-<img src="./assets/animated/h-projects.svg" width="100%" alt="Featured projects"/>
-<a href="https://github.com/isaad-ui/github-developer-analytics"><img src="./assets/animated/c-analytics.svg" width="100%" alt="GitHub Developer Analytics. A web app that analyses any public GitHub profile using the GitHub REST API. Built with React, Vite, JavaScript, Python and the GitHub API."/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/stack-dark.svg">
+  <img src="./assets/profile/stack-light.svg" alt="Python, Java, JavaScript, HTML, CSS, React, MySQL, Git, GitHub" width="570">
+</picture>
 
-<p align="center">
-  <a href="https://github-developer-analytics.netlify.app"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/isaad-ui/github-developer-analytics"><b>Source code</b></a>
-</p>
+Also: REST APIs, the GitHub API, data structures and algorithms, object-oriented programming and database fundamentals.
 
-<a href="https://github.com/isaad-ui/website-uptime-monitor"><img src="./assets/animated/c-uptime.svg" width="100%" alt="Website Uptime Monitor. Checks website status, response time and timestamp. Built with Python, FastAPI, React, pytest and GitHub Actions."/></a>
+## Featured projects
 
-<p align="center">
-  <a href="https://website-uptime-monitor.netlify.app"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/isaad-ui/website-uptime-monitor"><b>Source code</b></a>
-</p>
+### [GitHub Developer Analytics](https://github.com/isaad-ui/github-developer-analytics)
 
-<img src="./assets/animated/h-activity.svg" width="100%" alt="GitHub activity"/>
+Enter any public GitHub username to see a profile summary, language breakdown, repository statistics and a searchable repository list. It uses the GitHub REST API, with a React web app and a Python terminal version.
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/output/github-snake-dark.svg" alt="Contribution graph animation"/>
-</p>
+Python · JavaScript · React · Vite · GitHub API
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isaad-ui&theme=dark&background=0D1117&hide_border=true&ring=58A6FF&fire=39D5FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
-</p>
+[Repository](https://github.com/isaad-ui/github-developer-analytics) · [Live demo](https://github-developer-analytics.netlify.app)
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/stats.svg" alt="GitHub statistics"/>
-</p>
+### [Website Uptime Monitor](https://github.com/isaad-ui/website-uptime-monitor)
 
-<p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/main/assets/generated/languages.svg" alt="Most used languages"/>
-</p>
+Checks whether a website is up and reports its HTTP status code, response time and timestamp, handling timeouts, SSL errors and connection failures. It started as a Python script and now also has a FastAPI backend, a React dashboard with check history, and automated tests that run in GitHub Actions.
 
-<img src="./assets/animated/h-goals.svg" width="100%" alt="Goals"/>
-<img src="./assets/animated/c-goals.svg" width="100%" alt="Goals: Build stronger Python projects with databases, authentication and tests. Get a software engineering internship. Improve my problem-solving with data structures and algorithms. Learn machine learning fundamentals and build a small AI project."/>
+Python · FastAPI · React · pytest · GitHub Actions
 
-<img src="./assets/animated/h-contact.svg" width="100%" alt="Contact"/>
-<img src="./assets/animated/c-contact.svg" width="100%" alt="I am open to internships and collaboration on small projects. Feel free to get in touch on LinkedIn."/>
+[Repository](https://github.com/isaad-ui/website-uptime-monitor) · [Live demo](https://website-uptime-monitor.netlify.app)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://github.com/isaad-ui"><b>GitHub</b></a>
-</p>
+More of my work is on my [repositories page](https://github.com/isaad-ui?tab=repositories).
 
-<p align="center">
-  <img src="./assets/animated/footer.svg" width="100%" alt="Thanks for visiting. Issaka Sa-ad Timbilla, BSc Computer Science, University of Ghana."/>
-</p>
+## Currently learning
+
+- Backend development with Python, including REST APIs
+- MySQL and database fundamentals
+- Data structures and algorithms
+- Machine learning basics, as a first step towards AI engineering
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaad-ui/isaad-ui/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/isaad-ui/isaad-ui/output/github-snake.svg" alt="Contribution graph" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=isaad-ui&hide_border=true&background=00000000&stroke=20282B&ring=75B9A8&fire=75B9A8&currStreakNum=DCE5DF&sideNums=DCE5DF&currStreakLabel=75B9A8&sideLabels=A9B5B0&dates=A9B5B0">
+  <img src="https://streak-stats.demolab.com?user=isaad-ui&hide_border=true&background=00000000&stroke=E3E9E6&ring=3F7F6E&fire=3F7F6E&currStreakNum=1F2A27&sideNums=1F2A27&currStreakLabel=3F7F6E&sideLabels=5F6B66&dates=5F6B66" alt="GitHub contribution streak" width="440">
+</picture>
+
+Languages across my public repositories:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages-dark.svg">
+  <img src="./assets/profile/languages-light.svg" alt="Language breakdown across my public repositories" width="700">
+</picture>
+
+## Connect
+
+<a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/icon-linkedin-dark.svg"><img src="./assets/profile/icon-linkedin-light.svg" alt="LinkedIn" width="24" height="24" align="absmiddle"></picture> LinkedIn</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/isaad-ui"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/icon-github-dark.svg"><img src="./assets/profile/icon-github-light.svg" alt="GitHub" width="24" height="24" align="absmiddle"></picture> GitHub</a>
+
+I'm open to internships and to collaborating on small projects. LinkedIn is the best way to reach me.
