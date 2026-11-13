@@ -10,7 +10,7 @@ BSc Computer Science student at the University of Ghana, interested in Python, b
   <img src="./assets/profile/typing-light.svg" alt="Python development. Practical software projects. Backend engineering. Growing towards AI engineering." width="700">
 </picture>
 
-## About
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/h-about-dark.svg"><img src="./assets/profile/h-about-light.svg" alt="About" width="700"></picture></h2>
 
 I'm a Computer Science student in Accra. I'm interested in Python development and backend engineering, and I learn best by building practical software that I can run, test and improve.
 
@@ -18,7 +18,7 @@ Over time I want to grow towards AI engineering. For now I'm focused on strong f
 
 University of Ghana · BSc Computer Science · Expected graduation 2028
 
-## Tech stack
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/h-tech-stack-dark.svg"><img src="./assets/profile/h-tech-stack-light.svg" alt="Tech stack" width="700"></picture></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/stack-dark.svg">
@@ -27,7 +27,7 @@ University of Ghana · BSc Computer Science · Expected graduation 2028
 
 Also: REST APIs, the GitHub API, data structures and algorithms, object-oriented programming and database fundamentals.
 
-## Featured projects
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/h-featured-projects-dark.svg"><img src="./assets/profile/h-featured-projects-light.svg" alt="Featured projects" width="700"></picture></h2>
 
 ### [GitHub Developer Analytics](https://github.com/isaad-ui/github-developer-analytics)
 
@@ -47,14 +47,17 @@ Python · FastAPI · React · pytest · GitHub Actions
 
 More of my work is on my [repositories page](https://github.com/isaad-ui?tab=repositories).
 
-## Currently learning
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/h-currently-learning-dark.svg"><img src="./assets/profile/h-currently-learning-light.svg" alt="Currently learning" width="700"></picture></h2>
 
-- Backend development with Python, including REST APIs
-- MySQL and database fundamentals
-- Data structures and algorithms
-- Machine learning basics, as a first step towards AI engineering
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/bullet-dark.svg"><img src="./assets/profile/bullet-light.svg" alt="" width="16" height="16" align="absmiddle"></picture> Backend development with Python, including REST APIs
 
-## GitHub activity
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/bullet-dark.svg"><img src="./assets/profile/bullet-light.svg" alt="" width="16" height="16" align="absmiddle"></picture> MySQL and database fundamentals
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/bullet-dark.svg"><img src="./assets/profile/bullet-light.svg" alt="" width="16" height="16" align="absmiddle"></picture> Data structures and algorithms
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/bullet-dark.svg"><img src="./assets/profile/bullet-light.svg" alt="" width="16" height="16" align="absmiddle"></picture> Machine learning basics, as a first step towards AI engineering
+
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/h-github-activity-dark.svg"><img src="./assets/profile/h-github-activity-light.svg" alt="GitHub activity" width="700"></picture></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaad-ui/isaad-ui/output/github-snake-dark.svg">
@@ -73,7 +76,7 @@ Languages across my public repositories:
   <img src="./assets/profile/languages-light.svg" alt="Language breakdown across my public repositories" width="700">
 </picture>
 
-## Connect
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/h-connect-dark.svg"><img src="./assets/profile/h-connect-light.svg" alt="Connect" width="700"></picture></h2>
 
 <a href="https://www.linkedin.com/in/issaka-sa-ad-timbilla/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/icon-linkedin-dark.svg"><img src="./assets/profile/icon-linkedin-light.svg" alt="LinkedIn" width="24" height="24" align="absmiddle"></picture> LinkedIn</a>
 &nbsp;&nbsp;&nbsp;

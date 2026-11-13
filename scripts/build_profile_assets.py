@@ -221,11 +221,58 @@ def connect_icon(key, theme, c):
 '''
 
 
+def clay_filter(fid, scale=3):
+    return (f'<filter id="{fid}" x="-4%" y="-10%" width="108%" height="120%" color-interpolation-filters="sRGB">'
+            '<feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="1" result="warp">'
+            '<animate attributeName="seed" values="1;2;3;4;5;6;7;8" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></feTurbulence>'
+            f'<feDisplacementMap in="SourceGraphic" in2="warp" scale="{scale}" xChannelSelector="R" yChannelSelector="G" result="shape"/>'
+            '<feGaussianBlur in="shape" stdDeviation="1.2" result="soft"/>'
+            '<feSpecularLighting in="soft" surfaceScale="3" specularConstant=".55" specularExponent="18" lighting-color="#ffffff" result="spec"><feDistantLight azimuth="225" elevation="55"/></feSpecularLighting>'
+            '<feComposite in="spec" in2="shape" operator="in" result="specIn"/>'
+            '<feComposite in="shape" in2="specIn" operator="arithmetic" k1="0" k2="1" k3=".45" k4="0"/></filter>')
+
+
+SECTION_TITLES = ["About", "Tech stack", "Featured projects", "Currently learning", "GitHub activity", "Connect"]
+
+
+def slug(title):
+    return title.lower().replace(" ", "-")
+
+
+def heading(theme, c, title):
+    dark = theme == "dark"
+    clay = "#DCE5DF" if dark else "#2B3733"
+    ink = "rgba(0,0,0,0.16)"
+    tl = round(len(title) * 19.5)
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 58" width="700" height="58" role="img" aria-label="{esc(title)}">
+<defs>{clay_filter("c")}</defs>
+<g filter="url(#c)">
+<text x="4" y="36" {CLAY_FONT} font-size="32" fill="{clay}" textLength="{tl}" lengthAdjust="spacingAndGlyphs">{esc(title)}</text>
+<rect x="4" y="45" width="{tl}" height="6" rx="3" fill="{c['accent']}"/>
+<g clip-path="url(#u)">{whorl(30, 48, 18, 6, 0, ink)}{whorl(tl - 30, 48, 18, 6, 0, ink)}</g>
+</g>
+<clipPath id="u"><rect x="4" y="45" width="{tl}" height="6" rx="3"/></clipPath>
+</svg>
+'''
+
+
+def bullet(theme, c):
+    ink = "rgba(0,0,0,0.2)"
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" role="img" aria-label="">
+<defs>{clay_filter("b", 1.6)}<clipPath id="k"><circle cx="10" cy="10" r="7"/></clipPath></defs>
+<g filter="url(#b)"><circle cx="10" cy="10" r="7" fill="{c['accent']}"/><g clip-path="url(#k)">{whorl(10, 10, 5.5, 4, 20, ink)}</g></g>
+</svg>
+'''
+
+
 def main():
     for theme, c in THEMES.items():
         write("header", theme, header(theme, c))
         write("typing", theme, typing(theme, c))
         write("stack", theme, stack(theme, c))
+        for t in SECTION_TITLES:
+            write("h-" + slug(t), theme, heading(theme, c, t))
+        write("bullet", theme, bullet(theme, c))
         write("icon-linkedin", theme, connect_icon("linkedin", theme, c))
         write("icon-github", theme, connect_icon("github", theme, c))
     print("assets written to", OUT)
