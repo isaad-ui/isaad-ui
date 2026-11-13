@@ -1,8 +1,14 @@
-<h1 align="center">Issaka Sa-ad Timbilla</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&fontColor=39FF88&height=190&section=header&text=Issaka%20Sa-ad%20Timbilla&fontSize=40&fontAlignY=38&animation=fadeIn&desc=BSc%20Computer%20Science%20%C2%B7%20University%20of%20Ghana&descSize=16&descAlignY=60" width="100%" alt="Issaka Sa-ad Timbilla"/>
+</p>
 
 <p align="center">
-  Computer Science student at the University of Ghana<br/>
-  Software Engineering · Backend Development · Growing interest in AI Engineering
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=39FF88&center=true&vCenter=true&width=640&height=40&lines=Python+Developer;Software+Engineering+Student;Building+APIs+and+Web+Apps;Growing+interest+in+AI+Engineering" alt="Python Developer, Software Engineering Student, Building APIs and Web Apps, Growing interest in AI Engineering"/>
+</p>
+
+<p align="center">
+  Computer Science student at the University of Ghana · Accra, Ghana<br/>
+  Software Engineering · Python Development · Growing interest in AI Engineering
 </p>
 
 <p align="center">
@@ -15,7 +21,7 @@
 
 ## About
 
-I am a BSc Computer Science student at the University of Ghana (expected graduation: 2028), based in Accra. I enjoy building practical tools, mostly in Python and JavaScript, and I am focusing on software engineering and backend development.
+I am a BSc Computer Science student at the University of Ghana (expected graduation: 2028), based in Accra. I enjoy building practical tools, mostly in Python and JavaScript, and I am focusing on software engineering and Python development.
 
 I build projects to learn how real software works: calling APIs, handling errors, writing tests and deploying what I make. Over time I want to move towards AI engineering.
 
@@ -71,7 +77,11 @@ A tool that checks whether a website is up. It reports the HTTP status code, res
 
 ## Goals
 
-- Build stronger backend projects with databases, authentication and tests
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=800&color=39FF88&center=true&vCenter=true&width=640&height=36&lines=Build+better+Python+projects;Practice+data+structures+and+algorithms;Land+a+software+engineering+internship;Learn+the+basics+of+machine+learning" alt="Current goals"/>
+</p>
+
+- Build stronger Python projects with databases, authentication and tests
 - Get a software engineering internship
 - Improve my problem-solving with data structures and algorithms
 - Learn machine learning fundamentals and build a small AI project
