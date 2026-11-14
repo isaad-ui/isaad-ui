@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 82" width="700" height="82" role="img" aria-label="Languages across my public repositories: JavaScript 30.9%, CSS 21.8%, TypeScript 20.3%, Python 18.4%, HTML 8.7%">
-<rect x="2.0" y="0" width="211.5" height="8" rx="4" fill="#75B9A8" fill-opacity="1.0"/>
-<rect x="216.5" y="0" width="148.9" height="8" rx="4" fill="#75B9A8" fill-opacity="0.86"/>
-<rect x="368.4" y="0" width="138.5" height="8" rx="4" fill="#75B9A8" fill-opacity="0.72"/>
-<rect x="509.9" y="0" width="125.7" height="8" rx="4" fill="#75B9A8" fill-opacity="0.58"/>
-<rect x="638.6" y="0" width="59.4" height="8" rx="4" fill="#75B9A8" fill-opacity="0.44"/>
-<circle cx="7" cy="35" r="4.5" fill="#75B9A8" fill-opacity="1.0"/><text x="20" y="40" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">JavaScript <tspan fill="#A9B5B0">30.9%</tspan></text>
-<circle cx="239" cy="35" r="4.5" fill="#75B9A8" fill-opacity="0.86"/><text x="252" y="40" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">CSS <tspan fill="#A9B5B0">21.8%</tspan></text>
-<circle cx="471" cy="35" r="4.5" fill="#75B9A8" fill-opacity="0.72"/><text x="484" y="40" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">TypeScript <tspan fill="#A9B5B0">20.3%</tspan></text>
-<circle cx="7" cy="65" r="4.5" fill="#75B9A8" fill-opacity="0.58"/><text x="20" y="70" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">Python <tspan fill="#A9B5B0">18.4%</tspan></text>
-<circle cx="239" cy="65" r="4.5" fill="#75B9A8" fill-opacity="0.44"/><text x="252" y="70" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">HTML <tspan fill="#A9B5B0">8.7%</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 82" width="700" height="82" role="img" aria-label="Languages across my public repositories: JavaScript 30.1%, CSS 21.2%, Python 20.7%, TypeScript 19.7%, HTML 8.4%">
+<rect x="2.0" y="0" width="205.6" height="8" rx="4" fill="#75B9A8" fill-opacity="1.0"/>
+<rect x="210.6" y="0" width="144.7" height="8" rx="4" fill="#75B9A8" fill-opacity="0.86"/>
+<rect x="358.3" y="0" width="141.3" height="8" rx="4" fill="#75B9A8" fill-opacity="0.72"/>
+<rect x="502.6" y="0" width="134.6" height="8" rx="4" fill="#75B9A8" fill-opacity="0.58"/>
+<rect x="640.3" y="0" width="57.7" height="8" rx="4" fill="#75B9A8" fill-opacity="0.44"/>
+<circle cx="7" cy="35" r="4.5" fill="#75B9A8" fill-opacity="1.0"/><text x="20" y="40" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">JavaScript <tspan fill="#A9B5B0">30.1%</tspan></text>
+<circle cx="239" cy="35" r="4.5" fill="#75B9A8" fill-opacity="0.86"/><text x="252" y="40" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">CSS <tspan fill="#A9B5B0">21.2%</tspan></text>
+<circle cx="471" cy="35" r="4.5" fill="#75B9A8" fill-opacity="0.72"/><text x="484" y="40" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">Python <tspan fill="#A9B5B0">20.7%</tspan></text>
+<circle cx="7" cy="65" r="4.5" fill="#75B9A8" fill-opacity="0.58"/><text x="20" y="70" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">TypeScript <tspan fill="#A9B5B0">19.7%</tspan></text>
+<circle cx="239" cy="65" r="4.5" fill="#75B9A8" fill-opacity="0.44"/><text x="252" y="70" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#DCE5DF">HTML <tspan fill="#A9B5B0">8.4%</tspan></text>
 </svg>
